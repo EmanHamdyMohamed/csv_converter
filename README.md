@@ -1,5 +1,7 @@
 # csv_converter
 
+Small project to convert csv file to json
+
 ## Project setup
 ```
 npm install
